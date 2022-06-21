@@ -30,12 +30,12 @@ $ cd Cursos
 
 ### Rodando
 
-Com o Phytonr instalado, você pode rodar o programa.
+Com o Python instalado, você pode rodar o programa.
 
 
 ## Feito com
 
-- Phyton
+- Python
 
 ## Contribuindo
 
