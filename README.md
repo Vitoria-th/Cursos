@@ -23,7 +23,7 @@ Para rodar esse programa você precisa ter Python instalado no seu computador.
 **Clonando o Repositório**
 
 ```
-$ git clone git@github.com:Vitoria-th/Cursos.git
+$ git clone git@github.com:vitori4th/Cursos.git
 
 $ cd Cursos
 ```
